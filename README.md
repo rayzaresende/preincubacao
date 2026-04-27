@@ -33,9 +33,7 @@ npm run dev
 
 | Usuário | E-mail | Senha |
 |---|---|---|
-| Administrador | admin@afya.com.br | afya2026 |
-| Rayza Resende | rayza@afya.com.br | rayza123 |
-| Mentor Afya | mentor@afya.com.br | mentor123 |
+
 
 ## Estrutura
 
